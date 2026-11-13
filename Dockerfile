@@ -1,0 +1,7 @@
+targets:
+  default:
+    build: npm run build
+module.exports = {
+  semi: false,
+  singleQuote: true
+}
